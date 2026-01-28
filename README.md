@@ -1,13 +1,13 @@
 ## Overview
 
-A self-directed web application built to retrieve and visualize player statistics, match history, and in-game performance data using the Riot Games API. The project was developed locally while learning front-end development and API integration.
+A self directed web application built to retrieve and visualize player statistics, match history, and in game performance data using the Riot Games API. The project was developed locally while learning front-end development and API integration.
 
 Although the original source code was not preserved, the system design, functionality, and UI are documented through screenshots and technical explanations.
 
 ## Key Features
 - Player profile dashboard displaying rank, level, and more
 - Match history feed with game mode, champion selection, and timestamps
-- Detailed match breakdown including all participants, items, runes, and spells
+- Detailed match breakdown including all players, items, runes, and spells
 - Team-based visualization with color-coded performance metrics
 - Calculated statistics such as KDA, CS, kill participation, and vision score
 - Dynamic UI components for expanding and navigating match data
@@ -19,3 +19,19 @@ Although the original source code was not preserved, the system design, function
 - CSS3
 - Riot Games REST API
 - JSON data parsing and transformation
+
+## Screenshots
+
+### Player Dashboard
+Displays player rank and match history.
+![Dashboard](screenshots/Stats.png)
+
+### Match History & Performance Metrics
+Shows recent matches with champions, items, and calculated stats.
+![Enhanced View](screenshots/DeeperStats.png)
+
+
+### Player Navigation
+Demonstrates dynamic navigation between player profiles.
+![Player Switch 1](screenshots/jump1.png)
+![Player Switch 2](screenshots/jump2.png)
