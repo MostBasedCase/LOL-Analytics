@@ -24,14 +24,14 @@ Although the original source code was not preserved, the system design, function
 
 ### Player Dashboard
 Displays player rank and match history.
-[Dashboard](screenshots/Stats.png)
+![Dashboard](Screenshots/Stats.png)
 
 ### Match History & Performance Metrics
 Shows recent matches with champions, items, and calculated stats.
-[Enhanced View](screenshots/DeeperStats.png)
+![Enhanced View](Screenshots/DeeperStats.png)
 
 
 ### Player Navigation
 Demonstrates dynamic navigation between player profiles.
-[Player Switch 1](screenshots/jump1.png)
-[Player Switch 2](screenshots/jump2.png)
+![Player Switch 1](Screenshots/jump1.png)
+![Player Switch 2](Screenshots/jump2.png)
