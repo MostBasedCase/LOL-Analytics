@@ -15,3 +15,9 @@ Although the original source code was not preserved, the system design, function
 - Dynamic UI components for expanding and navigating match data
 - Real-time data retrieval from the Riot Games API
 
+## Tech Stack
+- JavaScript (client-side)
+- HTML5
+- CSS3
+- Riot Games REST API
+- JSON data parsing and transformation
